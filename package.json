@@ -1,0 +1,16 @@
+{
+  "name": "koa-static-server",
+  "version": "1.0.0",
+  "description": "koa-static-server",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0",
+    "koa-router": "^7.4.0"
+  },
+  "author": "shentong",
+  "license": "ISC"
+}
